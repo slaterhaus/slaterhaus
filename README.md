@@ -1,5 +1,6 @@
 ## Hello, I'm James.
 I'm from Richmond, Virginia.
+Most of my contribitions are in private repos so you may not see much here.
 
 You can find me on [instagram](https://www.instagram.com/tjslater), [soundcloud](https://soundcloud.com/leatherliterati) and [linkedIn](https://www.linkedin.com/in/tjslater/).
 
