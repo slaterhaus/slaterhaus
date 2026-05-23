@@ -6,3 +6,6 @@ My live projects:
 
 [agenticscore.dev](https://www.agenticscore.dev)
 
+My libraries:
+
+[agenticscore](https://github.com/slaterhaus/agenticscore)
