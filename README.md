@@ -6,6 +6,10 @@ My live projects:
 
 [agenticscore.dev](https://www.agenticscore.dev)
 
+## 
+
 My libraries:
 
 [agenticscore](https://github.com/slaterhaus/agenticscore)
+
+[r3f-scene-router](https://slaterhaus.github.io/r3f-scene-router) | [demo](https://slaterhaus.github.io/r3f-scene-router/)
