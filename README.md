@@ -12,4 +12,4 @@ My libraries:
 
 [agenticscore](https://github.com/slaterhaus/agenticscore)
 
-[r3f-scene-router](https://slaterhaus.github.io/r3f-scene-router) | [demo](https://slaterhaus.github.io/r3f-scene-router/)
+[r3f-scene-router](https://github.com/slaterhaus/r3f-scene-router) | [demo](https://slaterhaus.github.io/r3f-scene-router/)
